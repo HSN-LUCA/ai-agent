@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-openai
+langchain-experimental
+sqlalchemy
+pandas
+python-dotenv
+pyodbc
+plotly
