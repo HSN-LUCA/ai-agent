@@ -1,0 +1,33 @@
+# Environment variables
+.env
+*.env
+
+# Database files
+*.db
+business.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+backup_*/
+dev_chat_history_*.json
+
+# Uploaded files
+logo.png
+
+# Streamlit secrets (keep template only)
+.streamlit/secrets.toml
